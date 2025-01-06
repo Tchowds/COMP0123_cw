@@ -1,0 +1,6212 @@
+{
+    "sites of grace": [
+        "The First Step",
+        "Church of Elleh",
+        "Gatefront",
+        "Waypoint Ruins Cellar",
+        "Artist's Shack",
+        "Third Church of Marika",
+        "Fort Haight West",
+        "Agheel Lake South",
+        "Agheel Lake North",
+        "Church of Dragon Communion",
+        "Seaside Ruins",
+        "Mistwood Outskirts",
+        "Murkwater Coast",
+        "Summonwater Village Outskirts",
+        "Stormfoot Catacombs",
+        "Murkwater Catacombs",
+        "Groveside Cave",
+        "Coastal Cave",
+        "Murkwater Cave",
+        "Highroad Cave",
+        "Limgrave Tunnels",
+        "Cave of Knowledge",
+        "Stranded Graveyard",
+        "Stormhill Shack",
+        "Castleward Tunnel",
+        "Margit, the Fell Omen",
+        "Warmaster's Shack",
+        "Saintsbridge",
+        "Deathtouched Catacombs",
+        "Limgrave Tower Bridge",
+        "Divine Tower of Limgrave",
+        "Church of Pilgrimage",
+        "Castle Morne Rampart",
+        "Tombsward",
+        "South of the Lookout Tower",
+        "Ailing Village Outskirts",
+        "Beside The Crater-Pocked Glade",
+        "Isolated Merchant's Shack",
+        "Fourth Church of Marika",
+        "Bridge of Sacrifice",
+        "Castle Morne Lift",
+        "Behind The Castle",
+        "Beside the Rampart Gaol",
+        "Morne Moangrave",
+        "Impaler's Catacombs",
+        "Tombsward Catacombs",
+        "Earthbore Cave",
+        "Tombsward Cave",
+        "Morne Tunnel",
+        "Stormveil Main Gate",
+        "Gateside Chamber",
+        "Stormveil Cliffside",
+        "Rampart Tower",
+        "Liftside Chamber",
+        "Secluded Cell",
+        "Godrick the Grafted",
+        "Lake-Facing Cliffs",
+        "Liurnia Lake Shore",
+        "Laskyar Ruins",
+        "Scenic Isle",
+        "Academy Gate Town",
+        "South Raya Lucaria Gate",
+        "Main Academy Gate",
+        "Liurnia Highway South",
+        "Liurnia Highway North",
+        "Gate Town Bridge",
+        "Artist's Shack (Liurnia)",
+        "Eastern Liurnia Lake Shore",
+        "Jarburg",
+        "Ranni's Chamber",
+        "Eastern Tableland",
+        "Church of Vows",
+        "Ruined Labyrinth",
+        "Mausoleum Compound",
+        "Slumbering Wolf's Shack",
+        "Boilprawn Shack",
+        "Fallen Ruins of the Lake",
+        "Folly on the Lake",
+        "Village of the Albinaurics",
+        "Converted Tower",
+        "Revenger's Shack",
+        "Temple Quarter",
+        "Crystalline Woods",
+        "Foot of the Four Belfries",
+        "The Four Belfries",
+        "Sorcerer's Isle",
+        "East Gate Bridge Trestle",
+        "Gate Town North",
+        "Northern Liurnia Lake Shore",
+        "Road to the Manor",
+        "Main Caria Manor Gate",
+        "Manor Upper Level",
+        "Manor Lower Level",
+        "Royal Moongazing Grounds",
+        "Ranni's Rise",
+        "Behind Caria Manor",
+        "The Ravine",
+        "Ravine-Veiled Village",
+        "Cliffbottom Catacombs",
+        "Road's End Catacombs",
+        "Black Knife Catacombs",
+        "Stillwater Cave",
+        "Lakeside Crystal Cave",
+        "Academy Crystal Cave",
+        "Raya Lucaria Crystal Tunnel",
+        "Study Hall Entrance",
+        "Liurnia Tower Bridge",
+        "Divine Tower of Liurnia",
+        "East Raya Lucaria Gate",
+        "Bellum Church",
+        "Grand Lift of Dectus",
+        "Frenzied Flame Village Outskirts",
+        "Church of Inhibition",
+        "Ruin-Strewn Precipice",
+        "Ruin-Strewn Precipice Overlook",
+        "Magma Wyrm Makar",
+        "Moonlight Altar",
+        "Cathedral of Manus Celes",
+        "Altar South",
+        "Church of the Cuckoo",
+        "Schoolhouse Classroom",
+        "Debate Parlor",
+        "Raya Lucaria Grand Library",
+        "Abandoned Coffin",
+        "Erdtree-Gazing Hill",
+        "Altus Plateau",
+        "Altus Highway Junction",
+        "Forest-Spanning Greatbridge",
+        "Bower of Bounty",
+        "Windmill Village",
+        "Windmill Heights",
+        "Road of Iniquity Side Path",
+        "Rampartside Path",
+        "Shaded Castle Ramparts",
+        "Shaded Castle Inner Gate",
+        "Castellan's Hall",
+        "Unsightly Catacombs",
+        "Sainted Hero's Grave",
+        "Sage's Cave",
+        "Perfumer's Grotto",
+        "Old Altus Tunnel",
+        "Altus Tunnel",
+        "Bridge of Iniquity",
+        "First Mt. Gelmir Campsite",
+        "Ninth Mt. Gelmir Campsite",
+        "Road of Iniquity",
+        "Seethewater River",
+        "Seethewater Terminus",
+        "Craftsman's Shack",
+        "Primeval Sorcerer Azur",
+        "Wyndham Catacombs",
+        "Gelmir Hero's Grave",
+        "Seethewater Cave",
+        "Volcano Cave",
+        "Outer Wall Phantom Tree",
+        "Minor Erdtree Church",
+        "Outer Wall Battleground",
+        "Hermit Merchant's Shack",
+        "Capital Rampart",
+        "Auriza Side Tomb",
+        "Auriza Hero's Grave",
+        "Sealed Tunnel",
+        "Divine Tower of West Altus: Gate",
+        "Divine Tower of West Altus",
+        "Volcano Manor",
+        "Prison Town Church",
+        "Temple of Eiglay",
+        "Guest Hall",
+        "Audience Pathway",
+        "Abductor Virgin",
+        "Subterranean Inquisition Chamber",
+        "Rykard, Lord of Blasphemy",
+        "Erdtree Sanctuary",
+        "East Capital Rampart",
+        "Lower Capital Church",
+        "Avenue Balcony",
+        "West Capital Rampart",
+        "Queen's Bedchamber",
+        "Fortified Manor, First Floor",
+        "Divine Bridge",
+        "Elden Throne",
+        "Underground Roadside",
+        "Forsaken Depths",
+        "Leyndell Catacombs",
+        "Frenzied Flame Proscription",
+        "Cathedral of the Forsaken",
+        "Leyndell, Capital of Ash",
+        "Fractured Marika",
+        "Smoldering Church",
+        "Rotview Balcony",
+        "Caelem Ruins",
+        "Fort Gael North",
+        "Smoldering Wall",
+        "Caelid Highway South",
+        "Cathedral of Dragon Communion",
+        "Southern Aeonia Swamp Bank",
+        "Sellia Backstreets",
+        "Sellia Under-Stair",
+        "Chair-Crypt of Sellia",
+        "Church of the Plague",
+        "Deep Siofra Well",
+        "Impassable Greatbridge",
+        "Chamber Outside the Plaza",
+        "Redmane Castle Plaza",
+        "Starscourge Radahn",
+        "Minor Erdtree Catacombs",
+        "Caelid Catacombs",
+        "War-Dead Catacombs",
+        "Abandoned Cave",
+        "Gaol Cave",
+        "Gael Tunnel",
+        "Rear Gael Tunnel Entrance",
+        "Sellia Crystal Tunnel",
+        "Aeonia Swamp Shore",
+        "Astray from Caelid Highway North",
+        "Heart of Aeonia",
+        "Inner Aeonia",
+        "Dragonbarrow West",
+        "Isolated Merchant's Shack (Dragonbarrow West)",
+        "Fort Faroth",
+        "Dragonbarrow Fork",
+        "Lenne's Rise",
+        "Farum Greatbridge",
+        "Bestial Sanctum",
+        "Sellia Hideaway",
+        "Dragonbarrow Cave",
+        "Divine Tower of Caelid: Center",
+        "Divine Tower of Caelid: Basement",
+        "Isolated Divine Tower",
+        "Forbidden Lands",
+        "Grand Lift of Rold",
+        "Hidden Path to the Haligtree",
+        "Divine Tower of East Altus: Gate",
+        "Divine Tower of East Altus",
+        "Zamor Ruins",
+        "Ancient Snow Valley Ruins",
+        "Freezing Lake",
+        "First Church of Marika",
+        "Whiteridge Road",
+        "Snow Valley Ruins Overlook",
+        "Castle Sol Main Gate",
+        "Church of the Eclipse",
+        "Castle Sol Rooftop",
+        "Spiritcaller Cave",
+        "Giants' Gravepost",
+        "Church of Repose",
+        "Foot of the Forge",
+        "Fire Giant",
+        "Forge of the Giants",
+        "Giants' Mountaintop Catacombs",
+        "Giant-Conquering Hero's Grave",
+        "Consecrated Snowfield",
+        "Inner Consecrated Snowfield",
+        "Ordina, Liturgical Town",
+        "Apostate Derelict",
+        "Consecrated Snowfield Catacombs",
+        "Cave of the Forlorn",
+        "Yelough Anix Tunnel",
+        "Haligtree Canopy",
+        "Haligtree Town",
+        "Haligtree Town Plaza",
+        "Haligtree Promenade",
+        "Prayer Room",
+        "Elphael Inner Wall",
+        "Drainage Channel",
+        "Haligtree Roots",
+        "Malenia, Goddess of Rot",
+        "Ainsel River Well Depths",
+        "Ainsel River Sluice Gate",
+        "Ainsel River Downstream",
+        "Dragonkin Soldier of Nokstella",
+        "Astel, Naturalborn of the Void",
+        "Ainsel River Main",
+        "Nokstella, Eternal City",
+        "Nokstella Waterfall Basin",
+        "Lake of Rot Shoreside",
+        "Grand Cloister",
+        "Nokron, Eternal City",
+        "Mimic Tear",
+        "Ancestral Woods",
+        "Night's Sacred Ground",
+        "Aqueduct-Facing Cliffs",
+        "Great Waterfall Basin",
+        "Siofra River Well Depths",
+        "Siofra River Bank",
+        "Worshippers' Woods",
+        "Below the Well",
+        "Palace Approach Ledge-Road",
+        "Dynasty Mausoleum Entrance",
+        "Dynasty Mausoleum Midpoint",
+        "Cocoon of the Empyrean",
+        "Root-Facing Cliffs",
+        "Great Waterfall Crest",
+        "Deeproot Depths",
+        "The Nameless Eternal City",
+        "Across the Roots",
+        "Prince of Death's Throne",
+        "Crumbling Beast Grave",
+        "Crumbling Beast Grave Depths",
+        "Tempest-Facing Balcony",
+        "Dragon Temple",
+        "Dragon Temple Transept",
+        "Dragon Temple Altar",
+        "Dragon Temple Lift",
+        "Dragon Temple Rooftop",
+        "Beside the Great Bridge",
+        "Dragonlord Placidusax",
+        "Maliketh, the Black Blade"
+    ],
+    "enemy rankings": {
+        "elite enemy": 5,
+        "invasion": 20,
+        "boss": 25,
+        "great boss": 100,
+        "legendary boss": 200 
+    },
+    "item rankings": {
+        "legendary": 1,
+        "upgrade": 5,
+        "key": 10
+    },
+    "map": [
+        {
+            "site": "The First Step",
+            "edges": 
+            [
+            "Church of Elleh",
+            "Coastal Cave",
+            "Limgrave Tunnels",
+            "Stranded Graveyard",
+            "Cave of Knowledge",
+            "Seaside Ruins",
+            "Murkwater Cave"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"],
+            ["boss"],
+            ["boss"],
+            ["boss"],
+            [],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "site": "Church of Elleh",
+            "edges": 
+            [
+            "The First Step",
+            "Gatefront",
+            "Stormfoot Catacombs",
+            "Groveside Cave",
+            "Agheel Lake North"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            ["boss"],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Gatefront",
+            "edges": 
+            [
+            "Church of Elleh",
+            "Agheel Lake North",
+            "Stormhill Shack"   
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Waypoint Ruins Cellar",
+            "edges":
+            [
+            "Agheel Lake North",
+            "Agheel Lake South",
+            "Artist's Shack",
+            "Mistwood Outskirts"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            ["boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Artist's Shack",
+            "edges":
+            [
+            "Waypoint Ruins Cellar"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Third Church of Marika",
+            "edges":
+            [
+            "Mistwood Outskirts",
+            "Siofra River Well Depths"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fort Haight West",
+            "edges": 
+            [
+            "Siofra River Well Depths"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Agheel Lake South",
+            "edges":
+            [
+            "Seaside Ruins",
+            "Murkwater Coast",
+            "Waypoint Ruins Cellar",
+            "Bridge of Sacrifice",
+            "Murkwater Cave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            ["boss"],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Agheel Lake North",
+            "edges":
+            [
+            "Gatefront",
+            "Church of Elleh",
+            "Murkwater Cave",
+            "Murkwater Coast",
+            "Mistwood Outskirts",
+            "Waypoint Ruins Cellar"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"],
+            [],
+            ["boss"],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Church of Dragon Communion",
+            "edges":
+            [
+            "Coastal Cave"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Seaside Ruins",
+            "edges":
+            [
+            "The First Step",
+            "Agheel Lake South"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Mistwood Outskirts",
+            "edges":
+            [
+            "Agheel Lake North",
+            "Waypoint Ruins Cellar",
+            "Third Church of Marika"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Murkwater Coast",
+            "edges":
+            [
+            "Agheel Lake North",
+            "Highroad Cave",
+            "Agheel Lake South"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Summonwater Village Outskirts",
+            "edges":
+            [
+            "Saintsbridge",
+            "Smoldering Church",
+            "Rear Gael Tunnel Entrance"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Stormfoot Catacombs",
+            "edges":
+            [
+            "Church of Elleh"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Murkwater Catacombs",
+            "edges":
+            [
+            "Murkwater Cave"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Groveside Cave",
+            "edges":
+            [
+            "Church of Elleh"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Coastal Cave",
+            "edges":
+            [
+            "The First Step",
+            "Church of Dragon Communion"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Murkwater Cave",
+            "edges":
+            [
+            "Murkwater Catacombs",
+            "Agheel Lake South",
+            "The First Step",
+            "Agheel Lake North"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "boss"],
+            ["boss"],
+            ["boss", "boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Highroad Cave",
+            "edges":
+            [
+            "Murkwater Coast",
+            "Saintsbridge"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Limgrave Tunnels",
+            "edges":
+            [
+            "The First Step"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Cave of Knowledge",
+            "edges":
+            [
+            "The First Step"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Stranded Graveyard",
+            "edges": 
+            [
+            "The First Step"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Stormhill Shack",
+            "edges": 
+            [
+            "Gatefront",
+            "Castleward Tunnel",
+            "Warmaster's Shack",
+            "Lake-Facing Cliffs"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Castleward Tunnel",
+            "edges":
+            [
+            "Stormhill Shack",
+            "Margit, the Fell Omen"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Margit, the Fell Omen",
+            "edges":
+            [
+            "Castleward Tunnel",
+            "Stormveil Main Gate"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Warmaster's Shack",
+            "edges": 
+            [
+            "Stormhill Shack",
+            "Saintsbridge",
+            "Deathtouched Catacombs"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Saintsbridge",
+            "edges":
+            [
+            "Warmaster's Shack",
+            "Summonwater Village Outskirts",
+            "Highroad Cave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Deathtouched Catacombs",
+            "edges":
+            [
+            "Warmaster's Shack"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Limgrave Tower Bridge",
+            "edges":
+            [
+            "Gateside Chamber",
+            "Divine Tower of Limgrave"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"],
+            ["elite enemy", "elite enemy", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of Limgrave",
+            "edges":
+            [
+            "Limgrave Tower Bridge"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Church of Pilgrimage",
+            "edges":
+            [
+            "Tombsward Catacombs",
+            "South of the Lookout Tower"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Castle Morne Rampart",
+            "edges":
+            [
+            "Ailing Village Outskirts",
+            "South of the Lookout Tower",
+            "Bridge of Sacrifice",
+            "Beside The Crater-Pocked Glade",
+            "Castle Morne Lift"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            [],
+            [],
+            ["boss", "boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Tombsward",
+            "edges": 
+            [
+            "Tombsward Cave",
+            "Isolated Merchant's Shack",
+            "Divine Bridge",
+            "South of the Lookout Tower",
+            "Fourth Church of Marika"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            [],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "South of the Lookout Tower",
+            "edges":
+            [
+            "Castle Morne Rampart",
+            "Earthbore Cave",
+            "Morne Tunnel",
+            "Church of Pilgrimage",
+            "Tombsward Catacombs",
+            "Tombsward"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            ["boss"],
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ailing Village Outskirts",
+            "edges":
+            [
+            "Castle Morne Rampart"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Beside The Crater-Pocked Glade",
+            "edges":
+            [
+            "Castle Morne Rampart",
+            "Impaler's Catacombs"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Isolated Merchant's Shack",
+            "edges":
+            [
+            "Tombsward",
+            "Divine Bridge",
+            "Fourth Church of Marika"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fourth Church of Marika",
+            "edges":
+            [
+            "Isolated Merchant's Shack",
+            "Tombsward"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Bridge of Sacrifice",
+            "edges":
+            [
+            "Castle Morne Rampart",
+            "Agheel Lake South"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Castle Morne Lift",
+            "edges":
+            [
+            "Castle Morne Rampart",
+            "Behind The Castle"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss", "elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Behind The Castle",
+            "edges": 
+            [
+            "Castle Morne Lift",
+            "Beside the Rampart Gaol"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Beside the Rampart Gaol",
+            "edges":
+            [
+            "Behind The Castle",
+            "Morne Moangrave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Morne Moangrave",
+            "edges":
+            [
+            "Beside the Rampart Gaol"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Impaler's Catacombs",
+            "edges": 
+            [
+            "Beside The Crater-Pocked Glade"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Tombsward Catacombs",
+            "edges": 
+            [
+            "Church of Pilgrimage",
+            "South of the Lookout Tower"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Earthbore Cave",
+            "edges":
+            [
+            "South of the Lookout Tower"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Tombsward Cave",
+            "edges":
+            [
+            "Tombsward"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Morne Tunnel",
+            "edges": 
+            [
+            "South of the Lookout Tower"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Stormveil Main Gate",
+            "edges": 
+            [
+            "Margit, the Fell Omen",
+            "Gateside Chamber",
+            "Stormveil Cliffside"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Gateside Chamber",
+            "edges":
+            [
+            "Stormveil Main Gate",
+            "Limgrave Tower Bridge",
+            "Secluded Cell"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Stormveil Cliffside",
+            "edges":
+            [
+            "Stormveil Main Gate",
+            "Rampart Tower"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Rampart Tower",
+            "edges":
+            [
+            "Stormveil Cliffside",
+            "Liftside Chamber"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Liftside Chamber",
+            "edges":
+            [
+            "Rampart Tower",
+            "Secluded Cell"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Secluded Cell",
+            "edges":
+            [
+            "Gateside Chamber",
+            "Liftside Chamber",
+            "Godrick the Grafted"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Godrick the Grafted",
+            "edges": 
+            [
+            "Secluded Cell",
+            "Lake-Facing Cliffs"
+            ],
+            "edge_enemies":
+            [
+            ["legendary boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Lake-Facing Cliffs",
+            "edges":
+            [
+            "Godrick the Grafted",
+            "Liurnia Lake Shore",
+            "Stormhill Shack"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Liurnia Lake Shore",
+            "edges": 
+            [
+            "Lake-Facing Cliffs",
+            "Laskyar Ruins",
+            "Stillwater Cave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Laskyar Ruins",
+            "edges": 
+            [
+            "Liurnia Lake Shore",
+            "Scenic Isle",
+            "Liurnia Highway North",
+            "Lakeside Crystal Cave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Scenic Isle",
+            "edges":
+            [
+            "Laskyar Ruins",
+            "Academy Gate Town",
+            "Boilprawn Shack",
+            "Folly on the Lake",
+            "Lakeside Crystal Cave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Academy Gate Town",
+            "edges":
+            [
+            "Scenic Isle",
+            "South Raya Lucaria Gate",
+            "Gate Town Bridge",
+            "Boilprawn Shack",
+            "Fallen Ruins of the Lake",
+            "Gate Town North",
+            "Eastern Liurnia Lake Shore"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            [],
+            [],
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "South Raya Lucaria Gate",
+            "edges":
+            [
+            "Academy Gate Town"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Main Academy Gate",
+            "edges":
+            [
+            "Crystalline Woods",
+            "Church of the Cuckoo"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Liurnia Highway South",
+            "edges":
+            [
+            "Liurnia Highway North"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Liurnia Highway North",
+            "edges":
+            [
+            "Liurnia Highway South",
+            "Cliffbottom Catacombs",
+            "Laskyar Ruins",
+            "Gate Town Bridge",
+            "Jarburg",
+            "Artist's Shack (Liurnia)"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            [],
+            ["boss"],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Gate Town Bridge",
+            "edges":
+            [
+            "Liurnia Highway North",
+            "Academy Gate Town"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Artist's Shack (Liurnia)",
+            "edges":
+            [
+            "Liurnia Highway North",
+            "Eastern Tableland"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Eastern Liurnia Lake Shore",
+            "edges": 
+            [
+            "Study Hall Entrance",
+            "Eastern Tableland",
+            "Academy Gate Town",
+            "Gate Town North"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Jarburg",
+            "edges":
+            [
+            "Liurnia Highway North"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Ranni's Chamber",
+            "edges":
+            [
+            "Ranni's Rise",
+            "Ainsel River Main"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Eastern Tableland",
+            "edges":
+            [
+            "Eastern Liurnia Lake Shore",
+            "Church of Vows",
+            "Study Hall Entrance",
+            "Ruined Labyrinth",
+            "Ainsel River Well Depths",
+            "Artist's Shack (Liurnia)"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion"],
+            [],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Church of Vows",
+            "edges":
+            [
+            "Eastern Tableland",
+            "Ruined Labyrinth"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ruined Labyrinth",
+            "edges":
+            [
+            "Church of Vows",
+            "Mausoleum Compound",
+            "Black Knife Catacombs",
+            "Eastern Tableland"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss", "boss", "elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Mausoleum Compound",
+            "edges":
+            [
+            "Ruined Labyrinth"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Slumbering Wolf's Shack",
+            "edges":
+            [
+            "Lakeside Crystal Cave"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Boilprawn Shack",
+            "edges":
+            [
+            "Scenic Isle",
+            "Fallen Ruins of the Lake",
+            "Folly on the Lake",
+            "Academy Gate Town"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fallen Ruins of the Lake",
+            "edges":
+            [
+            "Boilprawn Shack",
+            "Academy Gate Town",
+            "Temple Quarter"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Folly on the Lake",
+            "edges":
+            [
+            "Scenic Isle",
+            "Boilprawn Shack",
+            "Village of the Albinaurics",
+            "Temple Quarter"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Village of the Albinaurics",
+            "edges":
+            [
+            "Folly on the Lake"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Converted Tower",
+            "edges":
+            [
+            "Revenger's Shack",
+            "Road's End Catacombs"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Revenger's Shack",
+            "edges":
+            [
+            "Converted Tower",
+            "Temple Quarter",
+            "Foot of the Four Belfries"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Temple Quarter",
+            "edges":
+            [
+            "Revenger's Shack",
+            "Folly on the Lake",
+            "Fallen Ruins of the Lake",
+            "Foot of the Four Belfries",
+            "Crystalline Woods"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            [],
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Crystalline Woods",
+            "edges":
+            [
+            "Temple Quarter",
+            "Main Academy Gate",
+            "Academy Crystal Cave",
+            "Sorcerer's Isle"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Foot of the Four Belfries",
+            "edges":
+            [
+            "Revenger's Shack",
+            "Temple Quarter",
+            "The Four Belfries",
+            "Northern Liurnia Lake Shore"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "The Four Belfries",
+            "edges":
+            [
+            "Foot of the Four Belfries"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Sorcerer's Isle",
+            "edges":
+            [
+            "Crystalline Woods",
+            "Northern Liurnia Lake Shore",
+            "The Ravine"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "East Gate Bridge Trestle",
+            "edges":
+            [
+            "Raya Lucaria Grand Library",
+            "East Raya Lucaria Gate"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Gate Town North",
+            "edges":
+            [
+            "Academy Gate Town",
+            "Raya Lucaria Crystal Tunnel",
+            "Eastern Liurnia Lake Shore"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Northern Liurnia Lake Shore",
+            "edges":
+            [
+            "Foot of the Four Belfries",
+            "Sorcerer's Isle",
+            "Road to the Manor"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Road to the Manor",
+            "edges":
+            [
+            "Northern Liurnia Lake Shore",
+            "Main Caria Manor Gate"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Main Caria Manor Gate",
+            "edges":
+            [
+            "Road to the Manor",
+            "Manor Lower Level"   
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Manor Upper Level",
+            "edges":
+            [
+            "Manor Lower Level",
+            "Royal Moongazing Grounds"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Manor Lower Level",
+            "edges":
+            [
+            "Manor Upper Level",
+            "Main Caria Manor Gate"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Royal Moongazing Grounds",
+            "edges":
+            [
+            "Manor Upper Level",
+            "Ranni's Rise",
+            "Behind Caria Manor"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"],
+            ["great boss", "elite enemy"],
+            ["boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ranni's Rise",
+            "edges":
+            [
+            "Royal Moongazing Grounds",
+            "Ranni's Chamber"
+            ],
+            "edge_enemies":
+            [
+            ["great boss", "elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Behind Caria Manor",
+            "edges":
+            [
+            "Royal Moongazing Grounds"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "The Ravine",
+            "edges":
+            [
+            "Sorcerer's Isle",
+            "Ravine-Veiled Village"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ravine-Veiled Village",
+            "edges":
+            [
+            "The Ravine",
+            "Ruin-Strewn Precipice"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Cliffbottom Catacombs",
+            "edges":
+            [
+            "Liurnia Highway North"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Road's End Catacombs",
+            "edges":
+            [
+            "Converted Tower"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Black Knife Catacombs",
+            "edges":
+            [
+            "Ruined Labyrinth"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Stillwater Cave",
+            "edges":
+            [
+            "Liurnia Lake Shore"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Lakeside Crystal Cave",
+            "edges":
+            [
+            "Slumbering Wolf's Shack",
+            "Scenic Isle",
+            "Laskyar Ruins"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Academy Crystal Cave",
+            "edges":
+            [
+            "Crystalline Woods"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Raya Lucaria Crystal Tunnel",
+            "edges":
+            [
+            "Gate Town North"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Study Hall Entrance",
+            "edges":
+            [
+            "Eastern Tableland",
+            "Ainsel River Well Depths",
+            "Liurnia Tower Bridge",
+            "Eastern Liurnia Lake Shore"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Liurnia Tower Bridge",
+            "edges":
+            [
+            "Study Hall Entrance",
+            "Divine Tower of Liurnia"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of Liurnia",
+            "edges":
+            [
+            "Liurnia Tower Bridge"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "East Raya Lucaria Gate",
+            "edges":
+            [
+            "East Gate Bridge Trestle",
+            "Bellum Church"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Bellum Church",
+            "edges":
+            [
+            "East Raya Lucaria Gate",
+            "Grand Lift of Dectus"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Grand Lift of Dectus",
+            "edges":
+            [
+            "Bellum Church",
+            "Frenzied Flame Village Outskirts",
+            "Altus Plateau",
+            "Altus Highway Junction"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            [],
+            ["elite enemy", "elite enemy", "boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Frenzied Flame Village Outskirts",
+            "edges":
+            [
+            "Grand Lift of Dectus",
+            "Church of Inhibition"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Church of Inhibition",
+            "edges":
+            [
+            "Frenzied Flame Village Outskirts"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Ruin-Strewn Precipice",
+            "edges":
+            [
+            "Ravine-Veiled Village",
+            "Ruin-Strewn Precipice Overlook"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ruin-Strewn Precipice Overlook",
+            "edges":
+            [
+            "Ruin-Strewn Precipice",
+            "Magma Wyrm Makar"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Magma Wyrm Makar",
+            "edges":
+            [
+            "Ruin-Strewn Precipice Overlook",
+            "Abandoned Coffin"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Moonlight Altar",
+            "edges":
+            [
+            "Astel, Naturalborn of the Void",
+            "Altar South",
+            "Cathedral of Manus Celes"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "elite enemy", "elite enemy", "boss", "elite enemy"],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Cathedral of Manus Celes",
+            "edges":
+            [
+            "Moonlight Altar"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Altar South",
+            "edges":
+            [
+            "Moonlight Altar"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy", "boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Church of the Cuckoo",
+            "edges":
+            [
+            "Main Academy Gate",
+            "Schoolhouse Classroom",
+            "Subterranean Inquisition Chamber"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Schoolhouse Classroom",
+            "edges":
+            [
+            "Church of the Cuckoo",
+            "Debate Parlor"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Debate Parlor",
+            "edges":
+            [
+            "Raya Lucaria Grand Library",
+            "Schoolhouse Classroom"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "legendary boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Raya Lucaria Grand Library",
+            "edges":
+            [
+            "Debate Parlor",
+            "East Gate Bridge Trestle",
+            "Main Academy Gate"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "legendary boss"],
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Abandoned Coffin",
+            "edges":
+            [
+            "Magma Wyrm Makar",
+            "Unsightly Catacombs",
+            "Sage's Cave",
+            "Erdtree-Gazing Hill"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "boss"],
+            ["boss", "boss"],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Erdtree-Gazing Hill",
+            "edges":
+            [
+            "Abandoned Coffin",
+            "Seethewater River",
+            "Wyndham Catacombs",
+            "Old Altus Tunnel",
+            "Altus Plateau",
+            "Altus Highway Junction",
+            "Shaded Castle Ramparts"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"],
+            [],
+            ["boss", "boss"],
+            ["boss"],
+            ["boss"],
+            [],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Altus Plateau",
+            "edges":
+            [
+            "Grand Lift of Dectus",
+            "Erdtree-Gazing Hill",
+            "Altus Highway Junction"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Altus Highway Junction",
+            "edges":
+            [
+            "Altus Plateau",
+            "Erdtree-Gazing Hill",
+            "Grand Lift of Dectus",
+            "Forest-Spanning Greatbridge",
+            "Perfumer's Grotto",
+            "Outer Wall Phantom Tree"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["elite enemy", "elite enemy", "boss", "boss"],
+            [],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Forest-Spanning Greatbridge",
+            "edges":
+            [
+            "Altus Highway Junction",
+            "Bower of Bounty",
+            "Road of Iniquity Side Path",
+            "Altus Tunnel",
+            "Windmill Village"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            [],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Bower of Bounty",
+            "edges":
+            [
+            "Forest-Spanning Greatbridge",
+            "Altus Tunnel",
+            "Windmill Village"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Windmill Village",
+            "edges":
+            [
+            "Road of Iniquity Side Path",
+            "Windmill Heights",
+            "Rampartside Path",
+            "Outer Wall Battleground",
+            "Forest-Spanning Greatbridge",
+            "Bower of Bounty"                
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            [],
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Windmill Heights",
+            "edges":
+            [
+            "Windmill Village"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Road of Iniquity Side Path",
+            "edges":
+            [
+            "Windmill Village",
+            "Forest-Spanning Greatbridge",
+            "Bridge of Iniquity"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["invasion", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Rampartside Path",
+            "edges":
+            [
+            "Windmill Village",
+            "Sainted Hero's Grave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Shaded Castle Ramparts",
+            "edges": 
+            [
+            "Shaded Castle Inner Gate",
+            "Erdtree-Gazing Hill"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Shaded Castle Inner Gate",
+            "edges":
+            [
+            "Shaded Castle Ramparts",
+            "Castellan's Hall"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Castellan's Hall",
+            "edges":
+            [
+            "Shaded Castle Inner Gate"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Unsightly Catacombs",
+            "edges":
+            [
+            "Abandoned Coffin",
+            "Sage's Cave"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Sainted Hero's Grave",
+            "edges":
+            [
+            "Rampartside Path"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss", "boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Sage's Cave",
+            "edges":
+            [
+            "Unsightly Catacombs",
+            "Abandoned Coffin"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Perfumer's Grotto",
+            "edges":
+            [
+            "Altus Highway Junction"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Old Altus Tunnel",
+            "edges":
+            [
+            "Erdtree-Gazing Hill"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Altus Tunnel",
+            "edges":
+            [
+            "Forest-Spanning Greatbridge",
+            "Bower of Bounty"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Bridge of Iniquity",
+            "edges":
+            [
+            "Road of Iniquity Side Path",
+            "First Mt. Gelmir Campsite"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "boss"],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "First Mt. Gelmir Campsite",
+            "edges":
+            [
+            "Bridge of Iniquity",
+            "Ninth Mt. Gelmir Campsite",
+            "Gelmir Hero's Grave",
+            "Volcano Cave"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            [],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ninth Mt. Gelmir Campsite",
+            "edges":
+            [
+            "Road of Iniquity",
+            "First Mt. Gelmir Campsite"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss", "elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Road of Iniquity",
+            "edges":
+            [
+            "Ninth Mt. Gelmir Campsite",
+            "Volcano Manor"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss", "elite enemy"],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Seethewater River",
+            "edges":
+            [
+            "Wyndham Catacombs",
+            "Erdtree-Gazing Hill",
+            "Seethewater Cave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Seethewater Terminus",
+            "edges":
+            [
+            "Seethewater Cave",
+            "Craftsman's Shack"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Craftsman's Shack",
+            "edges":
+            [
+            "Seethewater Terminus",
+            "Primeval Sorcerer Azur"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            ["elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Primeval Sorcerer Azur",
+            "edges":
+            [
+            "Craftsman's Shack"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Wyndham Catacombs",
+            "edges":
+            [
+            "Erdtree-Gazing Hill",
+            "Seethewater River"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Gelmir Hero's Grave",
+            "edges":
+            [
+            "First Mt. Gelmir Campsite"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Seethewater Cave",
+            "edges":
+            [
+            "Seethewater River",
+            "Seethewater Terminus"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Volcano Cave",
+            "edges":
+            [
+            "First Mt. Gelmir Campsite"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Outer Wall Phantom Tree",
+            "edges":
+            [
+            "Minor Erdtree Church",
+            "Sealed Tunnel",
+            "Altus Highway Junction",
+            "Outer Wall Battleground"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            ["boss"],
+            ["elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Minor Erdtree Church",
+            "edges":
+            [
+            "Outer Wall Phantom Tree"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Outer Wall Battleground",
+            "edges":
+            [
+            "Windmill Village",
+            "Outer Wall Phantom Tree",
+            "Hermit Merchant's Shack",
+            "Capital Rampart",
+            "Auriza Side Tomb",
+            "Auriza Hero's Grave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "boss"],
+            ["invasion", "boss"],
+            ["boss", "invasion"],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Hermit Merchant's Shack",
+            "edges":
+            [
+            "Outer Wall Battleground"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Capital Rampart",
+            "edges":
+            [
+            "Outer Wall Battleground",
+            "East Capital Rampart"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Auriza Side Tomb",
+            "edges":
+            [
+            "Outer Wall Battleground"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Auriza Hero's Grave",
+            "edges":
+            [
+            "Outer Wall Battleground"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Sealed Tunnel",
+            "edges":
+            [
+            "Outer Wall Phantom Tree",
+            "Divine Tower of West Altus: Gate"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of West Altus: Gate",
+            "edges":
+            [
+            "Sealed Tunnel",
+            "Divine Tower of West Altus"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of West Altus",
+            "edges":
+            [
+            "Divine Tower of West Altus: Gate"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Volcano Manor",
+            "edges":
+            [
+            "Road of Iniquity",
+            "Prison Town Church"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Prison Town Church",
+            "edges":
+            [
+            "Volcano Manor",
+            "Guest Hall"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Temple of Eiglay",
+            "edges":
+            [
+            "Guest Hall",
+            "Audience Pathway"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Guest Hall",
+            "edges":
+            [
+            "Prison Town Church",
+            "Temple of Eiglay"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Audience Pathway",
+            "edges":
+            [
+            "Temple of Eiglay",
+            "Rykard, Lord of Blasphemy"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion", "legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Abductor Virgin",
+            "edges":
+            [
+            "Subterranean Inquisition Chamber"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Subterranean Inquisition Chamber",
+            "edges":
+            [
+            "Church of the Cuckoo",
+            "Abductor Virgin"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Rykard, Lord of Blasphemy",
+            "edges":
+            [
+            "Audience Pathway"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "legendary boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Erdtree Sanctuary",
+            "edges":
+            [
+            "West Capital Rampart",
+            "Queen's Bedchamber"
+            ],
+            "edge_enemies":
+            [
+            ["great boss", "elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "East Capital Rampart",
+            "edges":
+            [
+            "Capital Rampart",
+            "Underground Roadside",
+            "Avenue Balcony",
+            "Lower Capital Church"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["great boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Lower Capital Church",
+            "edges":
+            [
+            "East Capital Rampart",
+            "Avenue Balcony",
+            "West Capital Rampart"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Avenue Balcony",
+            "edges": 
+            [
+            "East Capital Rampart",
+            "Lower Capital Church",
+            "West Capital Rampart"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"],
+            [],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "West Capital Rampart",
+            "edges": 
+            [
+            "Erdtree Sanctuary",
+            "Avenue Balcony",
+            "Lower Capital Church",
+            "Fortified Manor, First Floor"
+            ],
+            "edge_enemies":
+            [
+            ["great boss", "elite enemy"],
+            ["elite enemy"],
+            [],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Queen's Bedchamber",
+            "edges": 
+            [
+            "Erdtree Sanctuary",
+            "Elden Throne"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fortified Manor, First Floor",
+            "edges": 
+            [
+            "West Capital Rampart"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Divine Bridge",
+            "edges": 
+            [
+            "Tombsward",
+            "Isolated Merchant's Shack",
+            "Isolated Divine Tower"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Elden Throne",
+            "edges":
+            [
+            "Queen's Bedchamber",
+            "Forbidden Lands",
+            "Divine Tower of East Altus: Gate"
+            ],
+            "edge_enemies":
+            [
+            ["legendary boss"],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Underground Roadside",
+            "edges":
+            [
+            "East Capital Rampart",
+            "Leyndell Catacombs",
+            "Forsaken Depths"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Forsaken Depths",
+            "edges":
+            [
+            "Underground Roadside",
+            "Cathedral of the Forsaken"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Leyndell Catacombs",
+            "edges":
+            [
+            "Underground Roadside"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Frenzied Flame Proscription",
+            "edges":
+            [
+            "Cathedral of the Forsaken"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Cathedral of the Forsaken",
+            "edges":
+            [
+            "Frenzied Flame Proscription",
+            "Forsaken Depths"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Leyndell, Capital of Ash",
+            "edges":
+            [
+            "Fractured Marika",
+            "Maliketh, the Black Blade"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy", "elite enemy", "boss", "great boss", "legendary boss", "legendary boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fractured Marika",
+            "edges":
+            [
+            "Leyndell, Capital of Ash"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy", "elite enemy", "boss", "great boss", "legendary boss", "legendary boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Smoldering Church",
+            "edges":
+            [
+            "Summonwater Village Outskirts",
+            "Rear Gael Tunnel Entrance",
+            "Minor Erdtree Catacombs",
+            "Rotview Balcony"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "invasion"],
+            [],
+            ["boss", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Rotview Balcony",
+            "edges":
+            [
+            "Smoldering Church",
+            "Caelem Ruins"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Caelem Ruins",
+            "edges":
+            [
+            "Rotview Balcony",
+            "Dragonbarrow West",
+            "Smoldering Wall"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fort Gael North",
+            "edges":
+            [
+            "Gael Tunnel",
+            "Smoldering Wall"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Smoldering Wall",
+            "edges":
+            [
+            "Caelem Ruins",
+            "Astray from Caelid Highway North",
+            "Fort Gael North",
+            "Abandoned Cave"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Caelid Highway South",
+            "edges":
+            [
+            "Astray from Caelid Highway North",
+            "Southern Aeonia Swamp Bank",
+            "Cathedral of Dragon Communion",
+            "Impassable Greatbridge"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss", "boss"],
+            [],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Cathedral of Dragon Communion",
+            "edges":
+            [
+            "Caelid Highway South"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Southern Aeonia Swamp Bank",
+            "edges":
+            [
+            "Caelid Highway South",
+            "Sellia Under-Stair",
+            "Impassable Greatbridge"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            [],
+            ["elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Sellia Backstreets",
+            "edges":
+            [
+            "Sellia Under-Stair",
+            "Church of the Plague"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Sellia Under-Stair",
+            "edges":
+            [
+            "Southern Aeonia Swamp Bank",
+            "Sellia Backstreets",
+            "Chair-Crypt of Sellia",
+            "Sellia Crystal Tunnel",
+            "Inner Aeonia"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Chair-Crypt of Sellia",
+            "edges":
+            [
+            "Sellia Under-Stair"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Church of the Plague",
+            "edges":
+            [
+            "Sellia Backstreets",
+            "Sellia Hideaway"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Deep Siofra Well",
+            "edges":
+            [
+            "Below the Well"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "invasion", "invasion"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Impassable Greatbridge",
+            "edges":
+            [
+            "Caelid Catacombs",
+            "Caelid Highway South",
+            "Southern Aeonia Swamp Bank",
+            "Chamber Outside the Plaza"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["elite enemy"],
+            ["elite enemy", "boss"],
+            ["elite enemy", "elite enemy", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Chamber Outside the Plaza",
+            "edges":
+            [
+            "Impassable Greatbridge",
+            "Redmane Castle Plaza"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Redmane Castle Plaza",
+            "edges":
+            [
+            "Chamber Outside the Plaza",
+            "Starscourge Radahn"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Starscourge Radahn",
+            "edges":
+            [
+            "Redmane Castle Plaza",
+            "War-Dead Catacombs",
+            "Nokron, Eternal City"
+            ],
+            "edge_enemies":
+            [
+            ["legendary boss"],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Minor Erdtree Catacombs",
+            "edges":
+            [
+            "Smoldering Church"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Caelid Catacombs",
+            "edges":
+            [
+            "Impassable Greatbridge"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "War-Dead Catacombs",
+            "edges":
+            [
+            "Starscourge Radahn"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Abandoned Cave",
+            "edges":
+            [
+            "Smoldering Wall"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Gaol Cave",
+            "edges":
+            [
+            "Astray from Caelid Highway North"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Gael Tunnel",
+            "edges":
+            [
+            "Fort Gael North"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Rear Gael Tunnel Entrance",
+            "edges": 
+            [
+            "Smoldering Church",
+            "Summonwater Village Outskirts"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Sellia Crystal Tunnel",
+            "edges":
+            [
+            "Sellia Under-Stair"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Aeonia Swamp Shore",
+            "edges":
+            [
+            "Heart of Aeonia",
+            "Astray from Caelid Highway North",
+            "Inner Aeonia"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "great boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Astray from Caelid Highway North",
+            "edges":
+            [
+            "Smoldering Wall",
+            "Gaol Cave",
+            "Aeonia Swamp Shore",
+            "Caelid Highway South"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Heart of Aeonia",
+            "edges":
+            [
+            "Aeonia Swamp Shore",
+            "Inner Aeonia"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "great boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Inner Aeonia",
+            "edges":
+            [
+            "Aeonia Swamp Shore",
+            "Heart of Aeonia",
+            "Sellia Under-Stair"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragonbarrow West",
+            "edges":
+            [
+            "Caelem Ruins",
+            "Isolated Merchant's Shack (Dragonbarrow West)",
+            "Divine Tower of Caelid: Center",
+            "Dragonbarrow Fork",
+            "Fort Faroth"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion"],
+            [],
+            ["elite enemy", "elite enemy", "elite enemy"],
+            ["elite enemy", "elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Isolated Merchant's Shack (Dragonbarrow West)",
+            "edges":
+            [
+            "Dragonbarrow West"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Fort Faroth",
+            "edges":
+            [
+            "Dragonbarrow West",
+            "Sellia Hideaway"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragonbarrow Fork",
+            "edges":
+            [
+            "Dragonbarrow West",
+            "Dragonbarrow Cave",
+            "Farum Greatbridge"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy"],
+            ["boss"],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Lenne's Rise",
+            "edges":
+            [
+            "Farum Greatbridge",
+            "Dragonbarrow Cave"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Farum Greatbridge",
+            "edges":
+            [
+            "Dragonbarrow Fork",
+            "Lenne's Rise",
+            "Bestial Sanctum"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            ["boss"],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Bestial Sanctum",
+            "edges":
+            [
+            "Farum Greatbridge"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Sellia Hideaway",
+            "edges":
+            [
+            "Fort Faroth",
+            "Church of the Plague"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragonbarrow Cave",
+            "edges":
+            [
+            "Dragonbarrow Fork",
+            "Lenne's Rise"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of Caelid: Center",
+            "edges":
+            [
+            "Dragonbarrow West",
+            "Divine Tower of Caelid: Basement"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of Caelid: Basement",
+            "edges":
+            [
+            "Divine Tower of Caelid: Center"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Isolated Divine Tower",
+            "edges":
+            [
+            "Divine Bridge"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Forbidden Lands",
+            "edges":
+            [
+            "Elden Throne",
+            "Divine Tower of East Altus: Gate",
+            "Grand Lift of Rold"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Grand Lift of Rold",
+            "edges":
+            [
+            "Forbidden Lands",
+            "Zamor Ruins"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Hidden Path to the Haligtree",
+            "edges":
+            [
+            "Consecrated Snowfield",
+            "Castle Sol Rooftop"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of East Altus: Gate",
+            "edges": 
+            [
+            "Forbidden Lands",
+            "Divine Tower of East Altus",
+            "Elden Throne"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Divine Tower of East Altus",
+            "edges":
+            [
+            "Divine Tower of East Altus: Gate"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Zamor Ruins",
+            "edges":
+            [
+            "Grand Lift of Rold",
+            "Giants' Mountaintop Catacombs"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ancient Snow Valley Ruins",
+            "edges":
+            [
+            "Giants' Mountaintop Catacombs",
+            "Castle Sol Main Gate",
+            "Snow Valley Ruins Overlook",
+            "Freezing Lake"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            ["invasion", "boss", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Freezing Lake",
+            "edges":
+            [
+            "Snow Valley Ruins Overlook",
+            "Ancient Snow Valley Ruins",
+            "Spiritcaller Cave",
+            "First Church of Marika"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "First Church of Marika",
+            "edges":
+            [
+            "Freezing Lake",
+            "Spiritcaller Cave",
+            "Whiteridge Road"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Whiteridge Road",
+            "edges":
+            [
+            "First Church of Marika",
+            "Giants' Gravepost"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Snow Valley Ruins Overlook",
+            "edges":
+            [
+            "Ancient Snow Valley Ruins",
+            "Freezing Lake",
+            "Castle Sol Main Gate"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "boss", "boss"],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Castle Sol Main Gate",
+            "edges":
+            [
+            "Snow Valley Ruins Overlook",
+            "Church of the Eclipse",
+            "Ancient Snow Valley Ruins"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["elite enemy", "elite enemy"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Church of the Eclipse",
+            "edges":
+            [
+            "Castle Sol Main Gate",
+            "Castle Sol Rooftop"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Castle Sol Rooftop",
+            "edges":
+            [
+            "Church of the Eclipse",
+            "Hidden Path to the Haligtree"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Spiritcaller Cave",
+            "edges":
+            [
+            "Freezing Lake",
+            "First Church of Marika"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Giants' Gravepost",
+            "edges":
+            [
+            "Whiteridge Road",
+            "Giant-Conquering Hero's Grave",
+            "Church of Repose",
+            "Foot of the Forge"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"],
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Church of Repose",
+            "edges":
+            [
+            "Giants' Gravepost",
+            "Foot of the Forge"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Foot of the Forge",
+            "edges":
+            [
+            "Giants' Gravepost",
+            "Church of Repose",
+            "Fire Giant"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Fire Giant",
+            "edges":
+            [
+            "Foot of the Forge",
+            "Forge of the Giants"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Forge of the Giants",
+            "edges":
+            [
+            "Fire Giant",
+            "Crumbling Beast Grave"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Giants' Mountaintop Catacombs",
+            "edges":
+            [
+            "Zamor Ruins",
+            "Ancient Snow Valley Ruins"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Giant-Conquering Hero's Grave",
+            "edges":
+            [
+            "Giants' Gravepost"
+            ],
+            "edge_enemies":
+            [
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Consecrated Snowfield",
+            "edges":
+            [
+            "Hidden Path to the Haligtree",
+            "Yelough Anix Tunnel",
+            "Inner Consecrated Snowfield",
+            "Consecrated Snowfield Catacombs"   
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            ["boss"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Inner Consecrated Snowfield",
+            "edges":
+            [
+            "Yelough Anix Tunnel",
+            "Consecrated Snowfield",
+            "Consecrated Snowfield Catacombs",
+            "Ordina, Liturgical Town",
+            "Cave of the Forlorn"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            [],
+            [],
+            ["boss", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ordina, Liturgical Town",
+            "edges":
+            [
+            "Inner Consecrated Snowfield",
+            "Cave of the Forlorn",
+            "Haligtree Canopy",
+            "Apostate Derelict",
+            "Yelough Anix Tunnel",
+            "Palace Approach Ledge-Road"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"],
+            [],
+            ["boss"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Apostate Derelict",
+            "edges":
+            [
+            "Ordina, Liturgical Town",
+            "Yelough Anix Tunnel",
+            "Palace Approach Ledge-Road"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["invasion", "invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Consecrated Snowfield Catacombs",
+            "edges":
+            [
+            "Consecrated Snowfield",
+            "Inner Consecrated Snowfield",
+            "Cave of the Forlorn"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Cave of the Forlorn",
+            "edges":
+            [
+            "Inner Consecrated Snowfield",
+            "Ordina, Liturgical Town",
+            "Consecrated Snowfield Catacombs"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "boss"],
+            ["boss"],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Yelough Anix Tunnel",
+            "edges":
+            [
+            "Consecrated Snowfield",
+            "Inner Consecrated Snowfield",
+            "Ordina, Liturgical Town",
+            "Apostate Derelict",
+            "Palace Approach Ledge-Road"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            [],
+            ["invasion", "invasion"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Haligtree Canopy",
+            "edges":
+            [
+            "Ordina, Liturgical Town",
+            "Haligtree Town"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Haligtree Town",
+            "edges":
+            [
+            "Haligtree Canopy",
+            "Haligtree Town Plaza"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Haligtree Town Plaza",
+            "edges":
+            [
+            "Haligtree Town",
+            "Haligtree Promenade"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Haligtree Promenade",
+            "edges":
+            [
+            "Haligtree Town Plaza",
+            "Prayer Room"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Prayer Room",
+            "edges":
+            [
+            "Haligtree Promenade",
+            "Elphael Inner Wall"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Elphael Inner Wall",
+            "edges":
+            [
+            "Prayer Room",
+            "Drainage Channel"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Drainage Channel",
+            "edges":
+            [
+            "Elphael Inner Wall",
+            "Haligtree Roots"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy"],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Haligtree Roots",
+            "edges":
+            [
+            "Drainage Channel",
+            "Malenia, Goddess of Rot"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"],
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Malenia, Goddess of Rot",
+            "edges":
+            [
+            "Haligtree Roots"
+            ],
+            "edge_enemies":
+            [
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Ainsel River Well Depths",
+            "edges":
+            [
+            "Eastern Tableland",
+            "Study Hall Entrance",
+            "Ainsel River Sluice Gate"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ainsel River Sluice Gate",
+            "edges":
+            [
+            "Ainsel River Well Depths",
+            "Ainsel River Downstream"
+            ],
+            "edge_enemies":
+            [
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ainsel River Downstream",
+            "edges":
+            [
+            "Ainsel River Sluice Gate",
+            "Dragonkin Soldier of Nokstella"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragonkin Soldier of Nokstella",
+            "edges":
+            [
+            "Ainsel River Downstream"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Astel, Naturalborn of the Void",
+            "edges":
+            [
+            "Moonlight Altar",
+            "Grand Cloister"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["great boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ainsel River Main",
+            "edges":
+            [
+            "Ranni's Chamber",
+            "Nokstella, Eternal City"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Nokstella, Eternal City",
+            "edges":
+            [
+            "Ainsel River Main",
+            "Nokstella Waterfall Basin"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"],
+            ["elite enemy", "elite enemy", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Nokstella Waterfall Basin",
+            "edges":
+            [
+            "Nokstella, Eternal City",
+            "Lake of Rot Shoreside"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy"],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Lake of Rot Shoreside",
+            "edges":
+            [
+            "Nokstella Waterfall Basin",
+            "Grand Cloister"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Grand Cloister",
+            "edges":
+            [
+            "Lake of Rot Shoreside",
+            "Astel, Naturalborn of the Void"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["great boss", "elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Nokron, Eternal City",
+            "edges":
+            [
+            "Starscourge Radahn",
+            "Mimic Tear"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Mimic Tear",
+            "edges":
+            [
+            "Nokron, Eternal City",
+            "Ancestral Woods"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Ancestral Woods",
+            "edges":
+            [
+            "Mimic Tear",
+            "Night's Sacred Ground",
+            "Aqueduct-Facing Cliffs"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["elite enemy", "great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Night's Sacred Ground",
+            "edges":
+            [
+            "Ancestral Woods"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Aqueduct-Facing Cliffs",
+            "edges":
+            [
+            "Ancestral Woods",
+            "Great Waterfall Basin"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "great boss"],
+            ["elite enemy", "elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Great Waterfall Basin",
+            "edges":
+            [
+            "Aqueduct-Facing Cliffs",
+            "Great Waterfall Crest"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Siofra River Well Depths",
+            "edges":
+            [
+            "Fort Haight West",
+            "Third Church of Marika",
+            "Siofra River Bank"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Siofra River Bank",
+            "edges":
+            [
+            "Siofra River Well Depths",
+            "Worshippers' Woods"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Worshippers' Woods",
+            "edges":
+            [
+            "Siofra River Bank",
+            "Below the Well"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Below the Well",
+            "edges":
+            [
+            "Worshippers' Woods",
+            "Deep Siofra Well"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["invasion", "invasion", "invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Palace Approach Ledge-Road",
+            "edges":
+            [
+            "Dynasty Mausoleum Entrance",
+            "Ordina, Liturgical Town",
+            "Apostate Derelict",
+            "Yelough Anix Tunnel"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "invasion", "invasion"],
+            [],
+            [],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dynasty Mausoleum Entrance",
+            "edges":
+            [
+            "Palace Approach Ledge-Road",
+            "Dynasty Mausoleum Midpoint"
+            ],
+            "edge_enemies":
+            [
+            ["invasion", "invasion", "invasion"],
+            ["invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dynasty Mausoleum Midpoint",
+            "edges":
+            [
+            "Dynasty Mausoleum Entrance",
+            "Cocoon of the Empyrean"
+            ],
+            "edge_enemies":
+            [
+            ["invasion"],
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Cocoon of the Empyrean",
+            "edges":
+            [
+            "Dynasty Mausoleum Midpoint"
+            ],
+            "edge_enemies":
+            [
+            ["legendary boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Root-Facing Cliffs",
+            "edges":
+            [
+            "Great Waterfall Crest"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Great Waterfall Crest",
+            "edges":
+            [
+            "Root-Facing Cliffs",
+            "Great Waterfall Basin",
+            "Deeproot Depths"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Deeproot Depths",
+            "edges":
+            [
+            "Great Waterfall Crest",
+            "The Nameless Eternal City",
+            "Across the Roots"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "The Nameless Eternal City",
+            "edges":
+            [
+            "Deeproot Depths",
+            "Across the Roots"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Across the Roots",
+            "edges":
+            [
+            "Deeproot Depths",
+            "The Nameless Eternal City",
+            "Prince of Death's Throne"
+            ],
+            "edge_enemies":
+            [
+            [],
+            [],
+            ["boss", "great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Prince of Death's Throne",
+            "edges":
+            [
+            "Across the Roots"
+            ],
+            "edge_enemies":
+            [
+            ["boss", "great boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Crumbling Beast Grave",
+            "edges":
+            [
+            "Forge of the Giants",
+            "Crumbling Beast Grave Depths"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Crumbling Beast Grave Depths",
+            "edges":
+            [
+            "Crumbling Beast Grave",
+            "Tempest-Facing Balcony"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Tempest-Facing Balcony",
+            "edges":
+            [
+            "Crumbling Beast Grave Depths",
+            "Dragon Temple"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragon Temple",
+            "edges":
+            [
+            "Tempest-Facing Balcony",
+            "Dragon Temple Transept"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "boss"],
+            ["elite enemy"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragon Temple Transept",
+            "edges":
+            [
+            "Dragon Temple",
+            "Dragon Temple Altar"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy"],
+            ["boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragon Temple Altar",
+            "edges":
+            [
+            "Dragon Temple Transept",
+            "Dragon Temple Lift",
+            "Dragon Temple Rooftop"
+            ],
+            "edge_enemies":
+            [
+            ["boss"],
+            [],
+            ["elite enemy", "elite enemy", "elite enemy", "invasion"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragon Temple Lift",
+            "edges":
+            [
+            "Dragon Temple Altar"
+            ],
+            "edge_enemies":
+            [
+            []
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Dragon Temple Rooftop",
+            "edges":
+            [
+            "Dragon Temple Altar",
+            "Beside the Great Bridge",
+            "Dragonlord Placidusax"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "elite enemy", "elite enemy", "invasion"],
+            [],
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Beside the Great Bridge",
+            "edges":
+            [
+            "Dragon Temple Rooftop",
+            "Maliketh, the Black Blade"
+            ],
+            "edge_enemies":
+            [
+            [],
+            ["elite enemy", "legendary boss"]
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        },
+        {
+            "site": "Dragonlord Placidusax",
+            "edges":
+            [
+            "Dragon Temple Rooftop"
+            ],
+            "edge_enemies":
+            [
+            ["great boss"]
+            ],
+            "edge_items":
+            [
+            []
+            ]
+        },
+        {
+            "site": "Maliketh, the Black Blade",
+            "edges":
+            [
+            "Beside the Great Bridge",
+            "Leyndell, Capital of Ash"
+            ],
+            "edge_enemies":
+            [
+            ["elite enemy", "legendary boss"],
+            []
+            ],
+            "edge_items":
+            [
+            [],
+            []
+            ]
+        }
+    ]
+      
+}
