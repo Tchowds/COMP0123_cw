@@ -245,7 +245,7 @@ def verify_undirected_edges(config):
         site_name = site_info["site"]
         # print(site_name)
         edges = site_info["edges"]
-        edge_enemies = site_info["edge_enemies"]
+        edge_enemies = site_info["edge_items"]
 
         for i, destination_site in enumerate(edges):
             # print(destination_site)
@@ -268,7 +268,7 @@ def verify_undirected_edges(config):
                 continue
 
             # 3. Check if the enemies sub-array matches
-            dest_enemies = dest_site_info["edge_enemies"][j]
+            dest_enemies = dest_site_info["edge_items"][j]
             if enemies_for_edge != dest_enemies:
                 print(
                     f"[ERROR] Enemies mismatch on edge '{site_name}' <-> '{destination_site}'.\n"

@@ -309,17 +309,21 @@
         "Dragonlord Placidusax",
         "Maliketh, the Black Blade"
     ],
-    "enemy rankings": {
+    "enemy_rankings": {
         "elite enemy": 5,
         "invasion": 20,
         "boss": 25,
         "great boss": 100,
         "legendary boss": 200 
     },
-    "item rankings": {
+    "item_rankings": {
         "legendary": 1,
-        "upgrade": 5,
-        "key": 10
+        "golden seed": 2,
+        "sacred tear": 3,
+        "remembrance": 5,
+        "upgrade": 10,
+        "great rune": 15,
+        "key": 20
     },
     "map": [
         {
@@ -350,7 +354,7 @@
                 [],
                 [],
                 [],
-                [],
+                ["golden seed"],
                 [],
                 []
             ]
@@ -376,7 +380,7 @@
             "edge_items":
             [
             [],
-            [],
+            ["key", "key"],
             [],
             [],
             []
@@ -398,9 +402,9 @@
             ],
             "edge_items":
             [
+            ["key", "key"],
             [],
-            [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -456,7 +460,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["sacred tear", "key", "golden seed"],
             []
             ]
         },
@@ -472,7 +476,7 @@
             ],
             "edge_items":
             [
-            []
+            ["key", "key", "golden seed"]
             ]
         },
         {
@@ -583,7 +587,7 @@
             [
             [],
             [],
-            []
+            ["sacred tear", "key", "golden seed"]
             ]
         },
         {
@@ -760,7 +764,7 @@
             ],
             "edge_items":
             [
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -796,7 +800,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             [],
             [],
             []
@@ -817,7 +821,7 @@
             "edge_items":
             [
             [],
-            []
+            ["upgrade"]
             ]
         },
         {
@@ -834,7 +838,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["upgrade"],
             []
             ]
         },
@@ -943,7 +947,7 @@
             "edge_items":
             [
             [],
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -966,11 +970,11 @@
             ],
             "edge_items":
             [
+            ["sacred tear"],
             [],
             [],
-            [],
-            [],
-            []
+            ["upgrade"],
+            ["key", "golden seed"]
             ]
         },
         {
@@ -997,7 +1001,7 @@
             [],
             [],
             [],
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -1025,8 +1029,8 @@
             [],
             [],
             [],
-            [],
-            [],
+            ["sacred tear"],
+            ["legendary"],
             []
             ]
         },
@@ -1042,7 +1046,7 @@
             ],
             "edge_items":
             [
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -1059,7 +1063,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["upgrade"],
             []
             ]
         },
@@ -1099,7 +1103,7 @@
             "edge_items":
             [
             [],
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -1134,7 +1138,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "golden seed"],
             []
             ]
         },
@@ -1171,7 +1175,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -1186,7 +1190,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary"]
             ]
         },
         {
@@ -1219,7 +1223,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -1307,7 +1311,7 @@
             [
             [],
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -1343,7 +1347,7 @@
             "edge_items":
             [
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -1360,7 +1364,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -1380,9 +1384,9 @@
             ],
             "edge_items":
             [
+            ["golden seed"],
             [],
-            [],
-            []
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -1399,7 +1403,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["remembrance", "great rune"],
             []
             ]
         },
@@ -1420,7 +1424,7 @@
             "edge_items":
             [
             [],
-            [],
+            ["sacred tear"],
             []
             ]
         },
@@ -1440,8 +1444,8 @@
             ],
             "edge_items":
             [
-            [],
-            [],
+            ["sacred tear"],
+            ["key"],
             []
             ]
         },
@@ -1463,7 +1467,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key"],
             [],
             [],
             []
@@ -1484,7 +1488,7 @@
             [],
             ["boss"],
             [],
-            [],
+            ["boss"],
             []
             ],
             "edge_items":
@@ -1492,7 +1496,7 @@
             [],
             [],
             [],
-            [],
+            ["legendary"],
             []
             ]
         },
@@ -1521,8 +1525,8 @@
             "edge_items":
             [
             [],
-            [],
-            [],
+            ["golden seed"],
+            ["key"],
             [],
             [],
             [],
@@ -1541,7 +1545,7 @@
             ],
             "edge_items":
             [
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -1622,7 +1626,7 @@
             "edge_items":
             [
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -1696,7 +1700,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key"],
             []
             ]
         },
@@ -1858,16 +1862,16 @@
             ],
             "edge_enemies":
             [
-            [],
+            ["boss"],
             [],
             ["boss"],
             []
             ],
             "edge_items":
             [
+            ["legendary"],
             [],
-            [],
-            [],
+            ["key"],
             []
             ]
         },
@@ -1883,7 +1887,7 @@
             ],
             "edge_items":
             [
-            []
+            ["key"]
             ]
         },
         {
@@ -1900,7 +1904,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["upgrade"],
             []
             ]
         },
@@ -1920,7 +1924,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["upgrade"],
             [],
             []
             ]
@@ -1949,7 +1953,7 @@
             [],
             [],
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -1970,10 +1974,10 @@
             ],
             "edge_items":
             [
+            ["key"],
             [],
             [],
-            [],
-            []
+            ["upgrade"]
             ]
         },
         {
@@ -2031,7 +2035,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["upgrade"],
             [],
             []
             ]
@@ -2050,7 +2054,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -2093,7 +2097,7 @@
             [
             [],
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -2110,7 +2114,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key"],
             []
             ]
         },
@@ -2146,8 +2150,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary"],
+            ["golden seed"]
             ]
         },
         {
@@ -2164,7 +2168,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["legendary"],
             []
             ]
         },
@@ -2184,8 +2188,8 @@
             ],
             "edge_items":
             [
-            [],
-            [],
+            ["golden seed"],
+            ["upgrade"],
             []
             ]
         },
@@ -2203,8 +2207,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["upgrade"],
+            ["key"]
             ]
         },
         {
@@ -2238,7 +2242,7 @@
             "edge_items":
             [
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -2255,7 +2259,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -2444,7 +2448,7 @@
             "edge_items":
             [
             [],
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -2461,7 +2465,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["sacred tear"],
             []
             ]
         },
@@ -2486,7 +2490,7 @@
             [],
             [],
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -2504,7 +2508,7 @@
             "edge_items":
             [
             [],
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -2519,7 +2523,7 @@
             ],
             "edge_items":
             [
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -2593,8 +2597,8 @@
             "edge_items":
             [
             [],
-            [],
-            []
+            ["legendary", "legendary"],
+            ["legendary"]
             ]
         },
         {
@@ -2609,7 +2613,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary"]
             ]
         },
         {
@@ -2624,7 +2628,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary", "legendary"]
             ]
         },
         {
@@ -2663,7 +2667,7 @@
             "edge_items":
             [
             [],
-            []
+            ["upgrade"]
             ]
         },
         {
@@ -2680,8 +2684,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["remembrance", "legendary", "great rune", "key", "golden seed"],
+            ["upgrade"]
             ]
         },
         {
@@ -2689,20 +2693,17 @@
             "edges":
             [
             "Debate Parlor",
-            "East Gate Bridge Trestle",
-            "Main Academy Gate"
+            "East Gate Bridge Trestle"
             ],
             "edge_enemies":
             [
             ["invasion", "legendary boss"],
-            ["invasion"],
-            []
+            ["invasion"]
             ],
             "edge_items":
             [
-            [],
-            [],
-            []
+            ["remembrance", "legendary", "great rune", "key", "golden seed"],
+            ["golden seed"]
             ]
         },
         {
@@ -2726,7 +2727,7 @@
             [],
             [],
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -2753,7 +2754,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             [],
             [],
             [],
@@ -2807,10 +2808,10 @@
             [
             [],
             [],
+            ["legendary"],
+            ["sacred tear", "key", "golden seed"],
             [],
-            [],
-            [],
-            []
+            ["key", "golden seed", "golden seed"]
             ]
         },
         {
@@ -2833,11 +2834,11 @@
             ],
             "edge_items":
             [
+            ["sacred tear", "key", "golden seed"],
             [],
             [],
             [],
-            [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -2886,8 +2887,8 @@
             [],
             [],
             [],
-            [],
-            [],
+            ["golden seed"],
+            ["golden seed"],
             []
             ]
         },
@@ -2942,7 +2943,7 @@
             "edge_items":
             [
             [],
-            []
+            ["sacred tear", "legendary"]
             ]
         },
         {
@@ -2978,7 +2979,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -2993,7 +2994,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary"]
             ]
         },
         {
@@ -3026,7 +3027,7 @@
             ],
             "edge_items":
             [
-            []
+            ["sacred tear", "legendary"]
             ]
         },
         {
@@ -3151,7 +3152,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "golden seed"],
             []
             ]
         },
@@ -3169,7 +3170,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "golden seed"],
             []
             ]
         },
@@ -3191,7 +3192,7 @@
             [
             [],
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -3227,7 +3228,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary", "upgrade"]
             ]
         },
         {
@@ -3242,7 +3243,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary", "upgrade"]
             ]
         },
         {
@@ -3292,7 +3293,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -3329,10 +3330,10 @@
             ],
             "edge_items":
             [
+            ["golden seed"],
             [],
-            [],
-            [],
-            []
+            ["key", "golden seed", "golden seed"],
+            ["golden seed", "golden seed"]
             ]
         },
         {
@@ -3347,7 +3348,7 @@
             ],
             "edge_items":
             [
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -3372,8 +3373,8 @@
             ],
             "edge_items":
             [
-            [],
-            [],
+            ["golden seed"],
+            ["golden seed", "golden seed"],
             [],
             [],
             [],
@@ -3581,7 +3582,7 @@
             "edge_items":
             [
             [],
-            []
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -3629,7 +3630,7 @@
             ],
             "edge_items":
             [
-            []
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -3646,8 +3647,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["upgrade", "golden seed"],
+            ["legendary"]
             ]
         },
         {
@@ -3691,7 +3692,7 @@
             "edge_items":
             [
             [],
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -3712,7 +3713,7 @@
             "edge_items":
             [
             [],
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -3734,7 +3735,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["upgrade", "golden seed"],
             [],
             [],
             []
@@ -3754,8 +3755,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary"],
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -3810,7 +3811,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["remembrance", "great rune"],
             [],
             []
             ]
@@ -3916,7 +3917,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["remembrance", "remembrance", "legendary"],
             []
             ]
         },
@@ -3932,7 +3933,7 @@
             ],
             "edge_items":
             [
-            []
+            ["remembrance", "remembrance", "legendary"]
             ]
         },
         {
@@ -4059,8 +4060,8 @@
             "edge_items":
             [
             [],
-            [],
-            [],
+            ["key"],
+            ["legendary"],
             []
             ]
         },
@@ -4076,7 +4077,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary"]
             ]
         },
         {
@@ -4095,10 +4096,9 @@
             ],
             "edge_items":
             [
+            ["key"],
             [],
-            [],
-            [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -4115,8 +4115,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["golden seed"],
+            ["sacred tear"]
             ]
         },
         {
@@ -4140,7 +4140,7 @@
             "edge_items":
             [
             [],
-            [],
+            ["golden seed"],
             [],
             [],
             []
@@ -4175,8 +4175,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["sacred tear"],
+            ["legendary"]
             ]
         },
         {
@@ -4214,7 +4214,7 @@
             [
             [],
             [],
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -4233,7 +4233,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -4250,8 +4250,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary"],
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -4270,8 +4270,8 @@
             ],
             "edge_items":
             [
-            [],
-            [],
+            ["remembrance", "great rune"],
+            ["legendary", "golden seed"],
             []
             ]
         },
@@ -4317,7 +4317,7 @@
             ],
             "edge_items":
             [
-            []
+            ["legendary", "golden seed"]
             ]
         },
         {
@@ -4506,7 +4506,7 @@
             [],
             [],
             [],
-            []
+            ["legendary", "key", "key"]
             ]
         },
         {
@@ -4538,7 +4538,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["legendary", "key", "key"],
             []
             ]
         },
@@ -4578,7 +4578,7 @@
             "edge_items":
             [
             [],
-            []
+            ["upgrade"]
             ]
         },
         {
@@ -4599,7 +4599,7 @@
             [
             [],
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -4614,7 +4614,7 @@
             ],
             "edge_items":
             [
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -4632,7 +4632,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -4650,7 +4650,7 @@
             "edge_items":
             [
             [],
-            []
+            ["upgrade"]
             ]
         },
         {
@@ -4719,7 +4719,7 @@
             [
             [],
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -4736,7 +4736,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -4755,7 +4755,7 @@
             "edge_items":
             [
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -4809,7 +4809,7 @@
             "edge_items":
             [
             [],
-            []
+            ["key", "golden seed"]
             ]
         },
         {
@@ -4833,7 +4833,7 @@
             [],
             [],
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -4855,9 +4855,9 @@
             "edge_items":
             [
             [],
+            ["golden seed"],
             [],
-            [],
-            []
+            ["sacred tear"]
             ]
         },
         {
@@ -4876,9 +4876,9 @@
             ],
             "edge_items":
             [
+            ["sacred tear"],
             [],
-            [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -4895,7 +4895,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["legendary"],
             []
             ]
         },
@@ -4937,7 +4937,7 @@
             "edge_items":
             [
             [],
-            [],
+            ["legendary"],
             []
             ]
         },
@@ -4955,7 +4955,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["legendary"],
             []
             ]
         },
@@ -4974,7 +4974,7 @@
             "edge_items":
             [
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -5015,8 +5015,8 @@
             [
             [],
             [],
-            [],
-            []
+            ["sacred tear"],
+            ["golden seed"]
             ]
         },
         {
@@ -5033,7 +5033,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["sacred tear"],
             []
             ]
         },
@@ -5053,9 +5053,9 @@
             ],
             "edge_items":
             [
+            ["golden seed"],
             [],
-            [],
-            []
+            ["remembrance"]
             ]
         },
         {
@@ -5072,7 +5072,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["remembrance"],
             []
             ]
         },
@@ -5108,7 +5108,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "golden seed"],
             []
             ]
         },
@@ -5147,7 +5147,7 @@
             [
             [],
             [],
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -5172,10 +5172,10 @@
             "edge_items":
             [
             [],
+            ["golden seed"],
             [],
-            [],
-            [],
-            []
+            ["key"],
+            ["legendary"]
             ]
         },
         {
@@ -5191,7 +5191,7 @@
             ],
             "edge_enemies":
             [
-            [],
+            ["key"],
             ["boss"],
             [],
             ["boss"],
@@ -5200,10 +5200,10 @@
             ],
             "edge_items":
             [
+            ["key"],
             [],
             [],
-            [],
-            [],
+            ["golden seed"],
             [],
             []
             ]
@@ -5224,7 +5224,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             [],
             []
             ]
@@ -5266,7 +5266,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["legendary"],
             [],
             []
             ]
@@ -5385,7 +5385,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary", "legendary"]
             ]
         },
         {
@@ -5402,8 +5402,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary", "legendary"],
+            ["golden seed"]
             ]
         },
         {
@@ -5420,8 +5420,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["golden seed"],
+            ["legendary"]
             ]
         },
         {
@@ -5438,8 +5438,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary"],
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -5454,7 +5454,7 @@
             ],
             "edge_items":
             [
-            []
+            ["remembrance", "great rune"]
             ]
         },
         {
@@ -5493,7 +5493,7 @@
             "edge_items":
             [
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -5510,7 +5510,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key"],
             []
             ]
         },
@@ -5544,7 +5544,7 @@
             "edge_items":
             [
             [],
-            []
+            ["remembrance", "golden seed"]
             ]
         },
         {
@@ -5580,8 +5580,7 @@
             "edge_items":
             [
             [],
-            [],
-            []
+            ["legendary", "golden seed"]
             ]
         },
         {
@@ -5598,8 +5597,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary", "golden seed"],
+            ["key"]
             ]
         },
         {
@@ -5616,8 +5615,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["key"],
+            ["key"]
             ]
         },
         {
@@ -5634,8 +5633,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["key"],
+            ["remembrance", "golden seed"]
             ]
         },
         {
@@ -5653,7 +5652,7 @@
             "edge_items":
             [
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -5670,7 +5669,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["legendary"],
             []
             ]
         },
@@ -5691,8 +5690,8 @@
             "edge_items":
             [
             [],
-            [],
-            []
+            ["key"],
+            ["remembrance"]
             ]
         },
         {
@@ -5707,7 +5706,7 @@
             ],
             "edge_items":
             [
-            []
+            ["key"]
             ]
         },
         {
@@ -5724,8 +5723,7 @@
             ],
             "edge_items":
             [
-            [],
-            [],
+            ["remembrance"],
             []
             ]
         },
@@ -5763,7 +5761,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "key", "golden seed"],
             [],
             []
             ]
@@ -5783,7 +5781,7 @@
             "edge_items":
             [
             [],
-            []
+            ["key"]
             ]
         },
         {
@@ -5800,8 +5798,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["key"],
+            ["golden seed"]
             ]
         },
         {
@@ -5818,7 +5816,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -5840,7 +5838,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "golden seed"],
             [],
             [],
             []
@@ -5860,7 +5858,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["key", "golden seed"],
             []
             ]
         },
@@ -5879,7 +5877,7 @@
             "edge_items":
             [
             [],
-            []
+            ["remembrance", "great rune", "golden seed"]
             ]
         },
         {
@@ -5894,7 +5892,7 @@
             ],
             "edge_items":
             [
-            []
+            ["remembrance", "great rune", "golden seed"]
             ]
         },
         {
@@ -5930,7 +5928,7 @@
             [
             [],
             [],
-            []
+            ["legendary"]
             ]
         },
         {
@@ -5949,9 +5947,9 @@
             ],
             "edge_items":
             [
+            ["legendary"],
             [],
-            [],
-            []
+            ["key"]
             ]
         },
         {
@@ -5988,9 +5986,9 @@
             ],
             "edge_items":
             [
+            ["key"],
             [],
-            [],
-            []
+            ["remembrance"]
             ]
         },
         {
@@ -6005,7 +6003,7 @@
             ],
             "edge_items":
             [
-            []
+            ["remembrance"]
             ]
         },
         {
@@ -6077,7 +6075,7 @@
             "edge_items":
             [
             [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -6094,7 +6092,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["golden seed"],
             []
             ]
         },
@@ -6116,8 +6114,7 @@
             [
             [],
             [],
-            [],
-            []
+            ["golden seed"]
             ]
         },
         {
@@ -6151,9 +6148,9 @@
             ],
             "edge_items":
             [
-            [],
-            [],
-            []
+            ["golden seed"],
+            ["legendary"],
+            ["remembrance"]
             ]
         },
         {
@@ -6170,8 +6167,8 @@
             ],
             "edge_items":
             [
-            [],
-            []
+            ["legendary"],
+            ["remembrance", "legendary"]
             ]
         },
         {
@@ -6186,7 +6183,7 @@
             ],
             "edge_items":
             [
-            []
+            ["remembrance"]
             ]
         },
         {
@@ -6203,7 +6200,7 @@
             ],
             "edge_items":
             [
-            [],
+            ["remembrance", "legendary"],
             []
             ]
         }
