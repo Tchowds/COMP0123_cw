@@ -310,20 +310,20 @@
         "Maliketh, the Black Blade"
     ],
     "enemy_rankings": {
-        "elite enemy": 5,
-        "invasion": 20,
-        "boss": 25,
-        "great boss": 100,
-        "legendary boss": 200 
+        "elite enemy": 1,
+        "invasion": 3,
+        "boss": 5,
+        "great boss": 10,
+        "legendary boss": 25 
     },
     "item_rankings": {
-        "legendary": 1,
-        "golden seed": 2,
-        "sacred tear": 3,
-        "remembrance": 5,
-        "upgrade": 10,
-        "great rune": 15,
-        "key": 20
+        "legendary": 20,
+        "golden seed": 1,
+        "sacred tear": 5,
+        "remembrance": 25,
+        "upgrade": 15,
+        "great rune": 40,
+        "key": 50
     },
     "map": [
         {

@@ -1,5 +1,9 @@
 import json
 import networkx as nx
+import matplotlib.pyplot as plt
+
+import unweighted_functions as uf
+import weighted_functions as wf
 
 def build_three_graphs_from_json(json_file_path):
     """
@@ -67,6 +71,45 @@ def build_three_graphs_from_json(json_file_path):
     return G1, G2, G3
 
 
-# Example usage:
+def generate_sub_graph(graph, filename):
+
+    results = []
+    for i in range(1, graph.number_of_nodes() + 1):
+        print(f"Processing {i} nodes")
+        maximal_comp, weight = wf.beam_search_subgraph(graph, "Stranded Graveyard", i, 25)
+        results.append({
+            "num_nodes": i,
+            "maximal_comp": list(maximal_comp),
+            "weight": weight
+        })
+    
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2)
+
+
+
 if __name__ == "__main__":
     base_graph, boss_graph, item_graph = build_three_graphs_from_json("config.json")
+
+
+    # Top 30 highest degree nodes
+    highest_degree_nodes = uf.get_top_k_degree_nodes(base_graph, 30)
+
+    # Top 30 highest betweenness centrality nodes
+    highest_betweenness_nodes = uf.get_top_k_betweenness_centrality_nodes(base_graph, 30)
+
+    # Random traversals with overlay
+    uf.multiple_runs_random_traversal_overlay(
+        base_graph, "Stranded Graveyard", "Fractured Marika", highest_degree_nodes, highest_betweenness_nodes
+    )
+
+    # Generate maximal components and store in JSON (takes very long time)
+
+    # generate_sub_graph(boss_graph, "boss_graph.json")
+    # generate_sub_graph(item_graph, "item_graph.json")
+
+    # Plot number of nodes vs. weight proportion
+    wf.plot_num_nodes_vs_weight_proportion("boss_graph.json", "item_graph.json")
+
+    # Plot intersection and union of maximal components
+    wf.plot_comp_intersection_union("boss_graph.json", "item_graph.json")
