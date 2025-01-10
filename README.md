@@ -23,6 +23,16 @@ Run the main script to perform network analysis:
 python main.py
 ```
 
+## Network Visualization
+
+For a high-level view of all the **sites of grace** and their interconnections, refer to the full network map image:
+
+![Full Map of the Network](images/full_map.jpg)
+
+This visualization showcases the geographical layout and connectivity for all “sites of grace.” Edges represent traversable paths between sites, and the image provides a helpful overview when analyzing or comparing the various subgraphs generated throughout the project.
+
+---
+
 Below is a breakdown of each file and its primary role within the project.
 
 ## `config.json`
